@@ -47,7 +47,7 @@ GestureDetector.OnGestureListener, OnItemClickListener, MyListViewFling{
 	private int window_width;
 	private int currentpages=0;
 
-	private String TAG = "jj";
+	private String TAG = "jjjjj";
 	private View view = null;
 	private String title[] = { "新闻", "ͬ话题", "图片", "跟帖", 
 			"投票"};
